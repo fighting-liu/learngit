@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Make changes in branch1.
 Make changes in branch2.
+Make changes in branch2 again to test merge with no-ff.
