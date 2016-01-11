@@ -6,3 +6,4 @@ Make changes in branch1.
 Make changes in branch2.
 Make changes in branch2 again to test merge with no-ff.
 Fix the bug here.
+Fix bug 202.
