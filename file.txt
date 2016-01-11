@@ -1,1 +1,2 @@
 This is test for bugs.
+I'm working now, but bug happens.
