@@ -1,3 +1,3 @@
 This is test for bugs.
 I'm working, but a bug happens, i need to save the work here.
-I'm 1, and i am also in dev, i wanna push it to remote.
+I'm 1 and 2, and i merge the conflict.
